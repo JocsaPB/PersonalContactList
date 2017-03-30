@@ -1,0 +1,93 @@
+﻿@model IEnumerable<PersonalContactList.MVC.ViewModels.ContactViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KnownAs)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TelNumberA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TelNumberB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Facebook)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Instagran)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Twiiter)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Whatsapp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Linkedin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailB)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KnownAs)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TelNumberA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TelNumberB)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Facebook)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Instagran)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Twiiter)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Whatsapp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Linkedin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmailA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmailB)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ContatId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ContatId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ContatId })
+        </td>
+    </tr>
+}
+
+</table>

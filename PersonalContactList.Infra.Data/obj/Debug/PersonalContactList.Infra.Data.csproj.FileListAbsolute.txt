@@ -1,0 +1,17 @@
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\bin\Debug\PersonalContactList.Infra.Data.dll.config
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\bin\Debug\PersonalContactList.Infra.Data.dll
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\bin\Debug\PersonalContactList.Infra.Data.pdb
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\bin\Debug\PersonalContactList.Domain.dll
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\bin\Debug\PersonalContactList.Domain.pdb
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\obj\Debug\PersonalContactList.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\obj\Debug\PersonalContactList.Infra.Data.Migrations.firstDataBase.resources
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\obj\Debug\PersonalContactList.Infra.Data.Migrations.configurationOfEntities.resources
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\obj\Debug\PersonalContactList.Infra.Data.Migrations.configurationOfEntity2.resources
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\obj\Debug\PersonalContactList.Infra.Data.Migrations.configurationOfEntity3.resources
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\obj\Debug\PersonalContactList.Infra.Data.csproj.GenerateResource.Cache
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\obj\Debug\PersonalContactList.Infra.Data.dll
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Infra.Data\obj\Debug\PersonalContactList.Infra.Data.pdb

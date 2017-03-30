@@ -1,0 +1,4 @@
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Domain\bin\Debug\PersonalContactList.Domain.dll
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Domain\bin\Debug\PersonalContactList.Domain.pdb
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Domain\obj\Debug\PersonalContactList.Domain.dll
+C:\Users\Jocsã\Documents\Visual Studio 2015\Projects\EstudosVariados\PersonalContactList\PersonalContactList.Domain\obj\Debug\PersonalContactList.Domain.pdb

@@ -1,0 +1,5 @@
+.vs
+packages/
+PersonalContactList.Infra.Data/bin/
+PersonalContactList.MVC/bin/
+WebApplication1/

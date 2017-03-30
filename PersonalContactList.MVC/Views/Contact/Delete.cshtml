@@ -1,0 +1,120 @@
+﻿@model PersonalContactList.MVC.ViewModels.ContactViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>ContactViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KnownAs)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KnownAs)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TelNumberA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TelNumberA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TelNumberB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TelNumberB)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Facebook)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Facebook)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Instagran)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Instagran)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Twiiter)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Twiiter)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Whatsapp)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Whatsapp)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Linkedin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Linkedin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmailA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmailB)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+        @Html.HttpMethodOverride(HttpVerbs.Delete)
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
